@@ -10,7 +10,7 @@ namespace W3school_test
     {
 		class Car
 		{
-			string strName = "vireak";
+			string strName = "kosalvireak";
 			int intAge = 19;
 			static void Main(string[] args)
 			{
